@@ -1,2 +1,11 @@
 # Portfolio-Return-Analysis
-Portfolio Return Analysis
+
+Extract from Money master the game chapter CHAPTER 2.3 :
+
+Below is a chart showing a hypothetical market that is up and down like a roller coaster. Up 50%, down 50%, up 50%, and down 50%. This produces an average return of 0%. And like you, I would expect that a 0% return would mean that I didn’t lose any money. And we would both be wrong!
+
+As you can see by the chart, if you start with an actual dollar amount (let’s use $100,000), at the end of the four-year period, you are actually down $43,750, or 43.75%! You thought you were even, but instead you’re down 43.75%! Would you ever have guessed this? Now that you’re an insider, beware! Average returns have a built-in illusion, spinning a performance enhancement that doesn’t exist.
+
+In a Fox Business article titled [“Solving the Myth of Rate of Return,”](https://www.foxbusiness.com/features/solving-the-myth-of-rate-of-return) Erik Krom explains how this discrepancy applies to the real world: “Another way to look at it is to review the Dow Jones since 1930. If you add up every number and divide it by 81 years, the return ‘averages’ 6.31%; however, if you do the math, you get an ‘actual’ return of 4.31%. Why is this so important? If you invested $1,000 back in 1930 at 6.31%, you would have $142,000, at 4.31% you would only have $30,000.”
+
+You see, rate of return is actually comprised of two types of return: average return and actual return. The difference is simple: LOSSES. When calculating an average return, gains and losses are equal in weight. In other words, a +50% followed by a -50% leaves an average return of zero. This part is pretty straightforward. $100k invested would still equal $100k if you average zero. The interesting part comes when you calculate the actual return. Let’s take the same example and actually run the numbers; we’ll see what really happens. When you take $100k and apply +50%; your account will be worth $150k. Then take the $150k and -50%; now you only have $75k. That is a -25% loss from your original $100k. Why is this? Any time you have one year of losses your average return will not equal your actual return. Losses have greater weight and impact on your actual dollars than gains do.
